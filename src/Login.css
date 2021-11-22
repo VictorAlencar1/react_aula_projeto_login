@@ -1,0 +1,68 @@
+body
+{
+    background-image: linear-gradient(purple, lightblue);
+    background-repeat: no-repeat;
+    height: 653px
+}
+
+div
+{
+    display: flex;
+}
+
+img
+{
+    margin-left: 400px;
+    margin-top: 170px;
+    height: 306px;
+}
+
+form
+{
+    background-color: white;
+    width: 240px;
+    margin: 0 auto;
+    padding: 3%;
+    margin-top: 170px;
+    text-align: center;
+}
+
+.senha
+{
+    margin-top: 10px;
+}
+
+.email
+{
+    margin-top: 20px;
+}
+
+input
+{
+    padding: 4%;
+    width: 200px;
+    background-color: rgb(228, 226, 226);
+    border: none;
+    font-weight: bolder;
+    border-radius: 15px;
+}
+
+button
+{
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    width: 230px;
+    padding: 4%;
+    border: none;
+    font-weight: bolder;
+    border-radius: 20px;
+}
+
+p
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 13px;
+    font-style: italic;
+}
